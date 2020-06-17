@@ -2,7 +2,7 @@
 
 #### Rest?
 
-__Rest__란(Representational State Transfer)의 약자로 간단하게 말하자면 네트워크 상에서 _클라이언트와 서버 사이통신 방법중 하나이다._  
+__Rest__ 란(Representational State Transfer)의 약자로 간단하게 말하자면 네트워크 상에서 _클라이언트와 서버 사이통신 방법중 하나이다._  
 
 위에 말한 방식은 __간단__하게 말하며이고 정의된 의미로 말하자면 
 
