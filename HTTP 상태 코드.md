@@ -1,4 +1,4 @@
-# HTTP 생태 코드 정리
+# HTTP 상태 코드 
 
 > ### Client error responses
 
